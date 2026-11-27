@@ -12,7 +12,7 @@ An e-commerce build where the back office does the heavy lifting: a large admin 
 
 ## My role
 
-**Senior Laravel Backend Engineer**
+**Senior Laravel Backend Engineer & Team Lead**
 
 - Built the backend and data model of the platform.
 - Built the Filament admin panel and its resources, actions and permissions.
